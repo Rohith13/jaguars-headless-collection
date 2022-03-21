@@ -2,7 +2,7 @@
 
 
 
-Please find the basic headless calls including the Zone &amp; Einstein API calls. Download Headless NEW API's.postman_collection.json collection and import into your Postman workspace.
+Please find the basic headless calls including the Zone &amp; Einstein API calls. Download "Headless NEW API's.postman_collection.json" collection and import into your Postman workspace.
 
 Useful Docs:
 
@@ -17,7 +17,7 @@ API ClientID used for testing: 4cbbff5c-57b9-4a9c-a1c2-8d4035584a35. Clone this 
 
 When you run a specific API endpoint, ensure that you add it's scope in the body of OAuth2 BM Token Auth call.
 
-Example: For calling Product API endpoint, we need to append scope ("sfcc.products.rw")
+**Example**: For calling Product API endpoint, we need to append scope ("sfcc.products.rw")
 
 **KEY** scope
 
