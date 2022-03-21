@@ -12,8 +12,8 @@ https://developer.salesforce.com/docs/commerce/commerce-api/guide/auth-z-scope-c
 
 To make this solution work for your Commerce Cloud Sandbox, do the following:
 
-Update shortCode, OrganizationID & ClientID as per your environment on the collection.
-API ClientID used for testing: 4cbbff5c-57b9-4a9c-a1c2-8d4035584a35. Clone this API client to create new one for you
+1) Update shortCode, OrganizationID & ClientID as per your environment on the collection.
+2) API ClientID used for testing: 4cbbff5c-57b9-4a9c-a1c2-8d4035584a35. Clone this API client to create new one for you
 
 When you run a specific API endpoint, ensure that you add it's scope in the body of OAuth2 BM Token Auth call.
 
